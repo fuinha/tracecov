@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492484949064",
+    "firebase_url": "https://tracecov.firebaseio.com",
+    "project_id": "tracecov",
+    "storage_bucket": "tracecov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492484949064:android:01dd6a28ae9ecbcc69147d",
+        "android_client_info": {
+          "package_name": "com.tracecov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492484949064-i2ebpsfihmicll68eqrqhp31rn0u043g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzM_8AzVuPFvSi11_TcTqkUXGWGwyvfBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492484949064-i2ebpsfihmicll68eqrqhp31rn0u043g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
